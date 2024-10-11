@@ -1,0 +1,15 @@
+.footer {
+  @apply bg-gray-800 text-white py-6;
+}
+
+.footer-content {
+  @apply container mx-auto px-4 text-center;
+}
+
+.footer-text {
+  @apply flex items-center justify-center;
+}
+
+.footer-heart {
+  @apply mx-1 text-red-500;
+}
